@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="container">
         <h3 class="text-center">All Books</h3><br/>
 
         <table class="table table-bordered">

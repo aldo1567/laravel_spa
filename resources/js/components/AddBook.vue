@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="container">
         <h3 class="text-center">Add Book</h3>
         <div class="row">
             <div class="col-md-6">
